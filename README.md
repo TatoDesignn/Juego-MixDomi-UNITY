@@ -11,6 +11,6 @@ con las que lograras ganar este juego.
   <li>Disparar: Q</li>
 </ul>
 
-<a href="">Link del Juego</a>
+<a href="https://tatodesign.itch.io/mixdomi">Link del Juego</a>
 <h4>Nota: </h4>
 <p>Para vizualizar de forma correcta el juego, porfavor ponerlo en pantalla completa.</p>
