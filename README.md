@@ -15,7 +15,7 @@ las cuales te daran puntos y podras comprar vidas, tambien unas cajas de uvas la
   <li><strong>Disparar:</strong> Q</li>
   <li><strong>Comprar vidas:</strong> C</li>
 </ul>
-<img src="https://media.discordapp.net/attachments/1001222483120230501/1205928236744183869/image.png?ex=65da2730&is=65c7b230&hm=ab522a2f5776b27191f17a5d262417a6488f516cd7f609aac44dd023d2b25477&=&format=webp&quality=lossless&width=720&height=250">
+<img src="https://github.com/TatoDesign/Repositorios-Imagenes/blob/main/MixDomi/Controles.png">
 <h2>Mas información ⭐</h2>
 <a href="https://tatodesign.itch.io/mixdomi">Link del Juego</a>
 <h2>Nota 🧾</h2>
